@@ -1,2 +1,7 @@
-### View Site
-- see url above or the settings for this repo
+### [gitExercises](https://c1-softwareengineeringsummit.github.io/gitExercises/)
+
+[Check it out here](https://c1-softwareengineeringsummit.github.io/gitExercises/)
+
+## Licensing
+
+MIT
